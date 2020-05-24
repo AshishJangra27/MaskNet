@@ -23,8 +23,11 @@ This file might not work well because when we wear mask then haarcascade file ca
 If you like this project then make sure to give this repository a Star. If you have any doubt then make sure to ask me on Linkedin account.
 
 Linkedin: https://www.linkedin.com/in/ashish-jangra
+
 Instagram: https://www.instagram.com/ashish_zangra/
+
 Facebook: https://www.facebook.com/ashishzangra
+
 Website: http://www.ashishjangra.com
 
 Happy Learning!
