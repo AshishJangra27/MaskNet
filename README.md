@@ -1,3 +1,5 @@
+Hello Fellows!
+
 # MaskNet
 This project is about building a system which can detect whether a person is wearing mask or not on an image or live webcam video using Deep Learning and Computer Vision.
 
@@ -15,8 +17,14 @@ This code file take the live video feed from the webcam and directly pass each f
 # live_with_face_detection.ipynb
 This code file take the live video feed from the webcam and then find the faces from the given frames. Then we pass only those framed to the trained model. Then it draw the rectangle on the detected face of video window. If you wear the mask then the drawn rectangle colour is Green and if you don't wear the mask then rectangle colour is Red. 
 
-# live_with_face_detection.ipynb might not work well because when we wear mask then haarcascade file can't detect your face much efficiently. You can use YOLO for detecting faces.
+# live_with_face_detection.ipynb 
+This file might not work well because when we wear mask then haarcascade file can't detect your face much efficiently. You can use YOLO for detecting faces.
 
-If you like this project then make sure to give this repository a Star. If you have any doubt then make sure to ask me on https://www.linkedin.com/in/ashish-jangra.
+If you like this project then make sure to give this repository a Star. If you have any doubt then make sure to ask me on Linkedin account.
+
+Linkedin: https://www.linkedin.com/in/ashish-jangra
+Instagram: https://www.instagram.com/ashish_zangra/
+Facebook: https://www.facebook.com/ashishzangra
+Website: http://www.ashishjangra.com
 
 Happy Learning!
